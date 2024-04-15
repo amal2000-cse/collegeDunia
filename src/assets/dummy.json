@@ -1,0 +1,13 @@
+[
+    { "id": 1, "name": "College A", "featured": true, "rating": 4.5, "fees": 10000, "userReview": 4.8 },
+    { "id": 2, "name": "College B", "featured": false, "rating": 4.2, "fees": 12000, "userReview": 4.6 },
+    { "id": 3, "name": "College C", "featured": true, "rating": 4.7, "fees": 15000, "userReview": 4.9 },
+    { "id": 4, "name": "College D", "featured": false, "rating": 4.1, "fees": 11000, "userReview": 4.5 },
+    { "id": 5, "name": "College E", "featured": true, "rating": 4.6, "fees": 13000, "userReview": 4.7 },
+    { "id": 6, "name": "College F", "featured": false, "rating": 4.3, "fees": 14000, "userReview": 4.4 },
+    { "id": 7, "name": "College G", "featured": true, "rating": 4.8, "fees": 16000, "userReview": 4.6 },
+    { "id": 8, "name": "College H", "featured": false, "rating": 4.0, "fees": 9000, "userReview": 4.2 },
+    { "id": 9, "name": "College I", "featured": true, "rating": 4.9, "fees": 17000, "userReview": 5.0 },
+    { "id": 10, "name": "College J", "featured": false, "rating": 4.4, "fees": 12500, "userReview": 4.8 }
+   
+  ]
